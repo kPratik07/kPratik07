@@ -4,7 +4,7 @@ I'm Pratik Raj a passionate learner who's always willing to learn and work acros
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning Data Structures, Algorithms, and the MERN stack.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace # with your portfolio link -->
+- 👨‍💻 All of my projects are available at [My Portfolio](https://myporfolio-kpratik0709.vercel.app/)
 - 📫 How to reach me: kpratik071997@gmail.com
 - ⚡ Fun fact: I play cricket ,listen music and watch movies.
 
@@ -13,15 +13,13 @@ I'm Pratik Raj a passionate learner who's always willing to learn and work acros
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 ![DSA](https://img.shields.io/badge/-DSA-282C34?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 My GitHub Stats
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kPratik07&show_icons=true&theme=radical)
-
-## 📈 Activity Graph
-![Pratik's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kPratik07&theme=dracula)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-543527214/)
