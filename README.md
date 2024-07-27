@@ -1,5 +1,5 @@
 # **Hello< Developers/>!**
-I'm Prati Raj a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm Pratik Raj a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning Data Structures, Algorithms, and the MERN stack.
@@ -24,6 +24,6 @@ I'm Prati Raj a passionate learner who's always willing to learn and work across
 ![Pratik's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kPratik07&theme=dracula)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kpratikraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-543527214/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pratikraj5656/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pratik.raj.140)
