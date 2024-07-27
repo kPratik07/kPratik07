@@ -1,18 +1,29 @@
-# Welcome to my GitHub Profile!
+# **Hello< Developers/>!**
+I'm Prati Raj a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Hi, I'm Pratik. Welcome to my profile!
+## 🙋‍♂️ About Me 
+- 🌱 I’m currently learning Data Structures, Algorithms, and the MERN stack.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace # with your portfolio link -->
+- 📫 How to reach me: kpratik071997@gmail.com
+- ⚡ Fun fact: I play cricket ,listen music and watch movies.
 
-## About Me
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## 🚀 Languages and Tools:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DSA](https://img.shields.io/badge/-DSA-282C34?style=flat-square&logo=github&logoColor=white)
 
-![Profile Image](https://example.com/path-to-your-image.jpg)
+## 📊 My GitHub Stats
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kPratik07&show_icons=true&theme=radical)
 
-## Projects
-- [Project 1](https://github.com/kPratik07/project-1)
-- [Project 2](https://github.com/kPratik07/project-2)
+## 📈 Activity Graph
+![Pratik's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kPratik07&theme=dracula)
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kpratikraj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pratikraj5656/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pratik.raj.140)
