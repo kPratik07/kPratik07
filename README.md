@@ -1,4 +1,4 @@
-# **<span style="color: #1abc9c;">Hello</span>< Developers<span style="color: #ff6347;">/></span>!**
+# **<span style="color: #1abc9c;">Hello</span>< Developers<span style="color: #1abc9c;">/></span>!**
 I'm **Pratik Raj**, a passionate learner and technology enthusiast who's always eager to explore and work across various domains 💡. I thrive on discovering new technologies and leveraging them to solve real-world problems ✨. Currently, I'm diving deep into Web Development 🕸️ while honing my skills in Data Structures and Algorithms 🤓.
 
 ## 🙋‍♂️ About Me 
