@@ -4,7 +4,7 @@ I'm **Pratik Raj**, a passionate learner and technology enthusiast who's always 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning Data Structures, Algorithms, and the MERN stack.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://myporfolio-kpratik0709.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-kpratik0709.vercel.app/)
 - 📫 How to reach me: kpratik071997@gmail.com
 - ⚡ Fun fact: I play cricket ,listen music and watch movies.
 
