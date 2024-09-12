@@ -6,7 +6,7 @@ I'm **Pratik Raj**, a passionate learner and technology enthusiast who's always 
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-kpratik0709.vercel.app/)
 - 📫 How to reach me: kpratik071997@gmail.com
-- ⚡ Fun fact: I play cricket ,listen music and watch movies.
+- ⚡ Fun fact: I play cricket ,listen music and watch movies and In the meantime, I’m passionate about cooking—exploring different flavors and dishes is my way of crafting little culinary adventures. Every recipe is a new challenge, and yes, I take my taste buds on world tours!.
 
 ## 🚀 Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
