@@ -1,5 +1,5 @@
 # **<span style="color: #1abc9c;">Hello</span>< Developers<span style="color: #1abc9c;">/></span>!**
-I'm **Pratik Raj**, a passionate learner and technology enthusiast who's always eager to explore and work across various domains 💡. I thrive on discovering new technologies and leveraging them to solve real-world problems ✨. Currently, I'm diving deep into Web Development 🕸️ while honing my skills in Data Structures and Algorithms 🤓.
+I'm Pratik Raj, a curious tech explorer driven by a passion for turning ideas into impactful digital experiences. As an Associate Software Engineer at Masai School (Sept 2024 – Jun 2025), I crafted dynamic applications using React, Svelte, Node.js, and Astro. I’m currently deepening my expertise in Web Development and sharpening my edge in Data Structures & Algorithms to build smarter, faster solutions.
 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning Data Structures, Algorithms, and the MERN stack.
