@@ -3,7 +3,7 @@
 I'm **Pratik Raj**, a passionate Full Stack Developer with a knack for turning ideas into impactful digital experiences. Currently sharpening my skills in **MERN stack** and **Data Structures & Algorithms** to build scalable, high-performance applications.
 
 ## 🚀 Professional Journey
-- **Associate Software Engineer** @ [Masai School](https://www.masaischool.com/) (Sept 2024 – Present)
+- **Associate Software Engineer** @ [Masai School](https://www.masaischool.com/) (Sept 2024 – Jun 2025)
   - Crafting dynamic applications using **React, Svelte, Node.js, and Astro**
   - Collaborating with cross-functional teams to deliver robust solutions
 
