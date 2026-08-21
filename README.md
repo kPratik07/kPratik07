@@ -19,50 +19,92 @@ I build scalable web applications with a focus on performance, clean architectur
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="58" title="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="58" title="CSS3"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="58" title="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="58" title="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="58" title="React"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="58" title="Next.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=svelte" width="58" title="Svelte"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="58" title="Tailwind CSS"/>
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+  <sub>HTML5</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+  <sub>CSS3</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+  <sub>JavaScript</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+  <sub>TypeScript</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+  <sub>React</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+  <sub>Next.js</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=svelte" width="55"/><br>
+  <sub>Svelte</sub>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+  <sub>Tailwind CSS</sub>
+</td>
+</tr>
+</table>
 
 ### Backend & Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="58" title="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="58" title="Express.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="58" title="MongoDB"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="58" title="MySQL"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+  <sub>Node.js</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+  <sub>Express.js</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+  <sub>MongoDB</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+  <sub>MySQL</sub>
+</td>
+</tr>
+</table>
 
 ### Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="58" title="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="58" title="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="58" title="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="58" title="AWS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="58" title="Vercel"/>
-</p>
-
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+  <sub>Git</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+  <sub>GitHub</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+  <sub>Docker</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=aws" width="55"/><br>
+  <sub>AWS</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+  <sub>Vercel</sub>
+</td>
+</tr>
+</table>
 ## 🏆 Key Achievements
 - Architected and deployed 10+ production-ready applications serving thousands of users
 - Optimized application performance, reducing load times by 40% through code optimization and caching strategies
