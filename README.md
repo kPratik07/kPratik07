@@ -137,11 +137,11 @@ I build scalable web applications with a focus on performance, clean architectur
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-a363.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6e5494?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Vercel-Portfolio-6e5494?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:kpratik071997@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" />
 </a>
 
 ## ⚡ Beyond Code
