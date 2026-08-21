@@ -108,10 +108,12 @@ I build scalable web applications with a focus on performance, clean architectur
 
 ## 🏆 Key Achievements
 
-- 🚀 Architected and deployed **10+ production-ready applications** serving thousands of users
-- ⚡ Improved application performance by **40%** through code optimization and caching
-- 👥 Led a team of **3 developers** in implementing CI/CD pipelines, improving deployment efficiency by **60%**
-- 🌐 Contributed to open-source projects with **1,000+ GitHub stars** collectively
+- 🚀 Built and shipped **15+ React and TypeScript features** for a large-scale learning platform
+- ⚡ Improved application load speed by **35%** through production page migration and performance optimization
+- 📊 Reduced manual reporting time by **50%** by developing internal student analytics dashboards
+- 🧩 Built **10+ reusable React components**, improving development efficiency and accelerating feature delivery
+- 👨‍🏫 Mentored **150+ students** and conducted **50+ live coding sessions** focused on frontend development and React
+- 🤖 Built AI-powered applications integrating **OpenAI and Gemini APIs** for intelligent financial and document workflows
 
 ## 📊 GitHub Activity
 
