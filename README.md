@@ -1,10 +1,18 @@
-# **<span style="color: #1abc9c;">Hello</span> Developers<span style="color: #1abc9c;">/></span>!** 👨‍💻
+# Hi, I'm Pratik Raj 👋
 
-I'm **Pratik Raj**, a seasoned Full Stack Developer with a proven track record of architecting and delivering robust web applications. With expertise across the entire development stack, I specialize in building scalable, high-performance solutions that drive business growth and user engagement.
+### Full Stack Developer | React | Node.js | JavaScript
+
+I build scalable web applications with a focus on performance, clean architecture, and great user experiences.
 
 ## 🚀 Professional Journey
+
+- **Mentor & Software Engineer** @ **CipherSchools** (Jan 2026 – August 2026)
+  - Built and maintained full-stack web applications using modern JavaScript technologies
+  - Worked on scalable features, application performance, and reusable components
+  - Mentored developers and helped resolve technical challenges across the development workflow
+
 - **Associate Software Engineer** @ [Masai School](https://www.masaischool.com/) (Sept 2024 – Jun 2025)
-  - Led development of enterprise-grade applications using **MERN stack** and modern web technologies
+  - Led development of enterprise-grade applications using the **MERN stack**
   - Architected and implemented scalable backend services with optimized database schemas
   - Mentored junior developers in best practices and code quality standards
 
