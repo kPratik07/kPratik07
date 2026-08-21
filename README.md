@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Raj 👋
 
-### Software Engineer  JavaScript | React | Node.js 
+### Software Engineer | JavaScript | React | Node.js 
 
 I build scalable web applications with a focus on performance, clean architecture, and great user experiences.
 
