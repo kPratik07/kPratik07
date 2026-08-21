@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Raj 👋
 
-### Full Stack Developer | React | Node.js | JavaScript
+### Full Stack Developer  JavaScript | React | Node.js 
 
 I build scalable web applications with a focus on performance, clean architecture, and great user experiences.
 
