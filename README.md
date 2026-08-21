@@ -123,27 +123,32 @@ I build scalable web applications with a focus on performance, clean architectur
   </a>
 </p>
 
-## 🚀 What I Bring to the Table
-- **Full-Stack Expertise**: Proven ability to own features end-to-end, from database design to pixel-perfect UIs
-- **Performance Optimization**: Deep understanding of application performance tuning and optimization techniques
-- **Clean Code Advocate**: Strong focus on writing maintainable, scalable, and well-documented code
-- **Agile Practitioner**: Experience working in fast-paced Agile/Scrum environments
-
 ## 💡 Currently Exploring
-- Advanced Microservices Architecture
-- Serverless Computing
-- Real-time applications with WebSockets
-- Advanced TypeScript Patterns
+
+- Advanced Backend & Microservices Architecture
+- Cloud & DevOps with AWS, Docker & Kubernetes
+- Real-time Applications & WebSockets
+- AI-powered Application Development
 
 ## 📫 Let's Collaborate
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-543527214/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-a363.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpratik071997@gmail.com)
+
+<a href="https://www.linkedin.com/in/pratik-raj-543527214/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22" />
+</a>
+&nbsp;
+<a href="https://portfolio-a363.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6e5494?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=22" />
+</a>
+&nbsp;
+<a href="mailto:kpratik071997@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=22" />
+</a>
 
 ## ⚡ Beyond Code
-- 🏏 Competitive cricket player with a strategic mindset
-- 🎧 Audiophile with a carefully curated coding playlist
-- 🎬 Film enthusiast who appreciates good storytelling
-- 👨‍🍳 Experimental chef who loves fusing different cuisines
 
-> *"The most effective way to build great software is to write code that humans can understand."* 🚀
+- 🏏 **Cricket enthusiast** — I enjoy the strategy and competitive mindset of the game
+- 🎧 **Music lover** — Usually coding with a carefully curated playlist
+- 🎬 **Film enthusiast** — I appreciate strong storytelling and creative ideas
+- 👨‍🍳 **Food explorer** — I enjoy experimenting with different cuisines
+
+> *"Build things that are useful, write code that is understandable, and keep learning."* 🚀
