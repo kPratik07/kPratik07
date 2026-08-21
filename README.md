@@ -1,20 +1,19 @@
 # Hi, I'm Pratik Raj 👋
 
-### Software Engineer | JavaScript | React | Node.js 
+### Software Engineer | JavaScript | React | Node.js
 
-I build scalable web applications with a focus on performance, clean architecture, and great user experiences.
+I build scalable, high-performance web applications with clean architecture and great user experiences.
 
 ## 🚀 Professional Journey
 
-- **Mentor & Software Engineer** @ **CipherSchools** (Jan 2026 – August 2026)
+- **Mentor & Software Engineer @ CipherSchools** (Jan 2026 – August 2026)
   - Built and maintained full-stack web applications using modern JavaScript technologies
   - Worked on scalable features, application performance, and reusable components
-  - Mentored developers and helped resolve technical challenges across the development workflow
 
-- **Associate Software Engineer** @ [Masai School](https://www.masaischool.com/) (Sept 2024 – Jun 2025)
-  - Led development of enterprise-grade applications using the **MERN stack**
+- **Associate Software Engineer @ Masai School** (Sept 2024 – Jun 2025)
+  - Led development of enterprise-grade applications using the MERN stack
   - Architected and implemented scalable backend services with optimized database schemas
-  - Mentored junior developers in best practices and code quality standards
+
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
