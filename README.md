@@ -20,35 +20,48 @@ I build scalable web applications with a focus on performance, clean architectur
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="55" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="55" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" width="55" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=svelte" width="55" title="Svelte"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" width="58" title="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="58" title="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="58" title="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="58" title="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="58" title="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="58" title="Next.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=svelte" width="58" title="Svelte"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="58" title="Tailwind CSS"/>
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" width="55" title="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="58" title="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="58" title="Express.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="58" title="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="58" title="MySQL"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="55" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git" width="58" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="58" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="58" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="58" title="AWS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="58" title="Vercel"/>
 </p>
-
 
 ## 🏆 Key Achievements
 - Architected and deployed 10+ production-ready applications serving thousands of users
