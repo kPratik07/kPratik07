@@ -15,34 +15,39 @@ I build scalable web applications with a focus on performance, clean architectur
   - Led development of enterprise-grade applications using the **MERN stack**
   - Architected and implemented scalable backend services with optimized database schemas
   - Mentored junior developers in best practices and code quality standards
-    
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="55" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="55" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=svelte" width="55" title="Svelte"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" title="Tailwind CSS"/>
+</p>
 
 ### Backend & Databases
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="55" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/>
+</p>
 
 ### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="55" title="Vercel"/>
+</p>
 
 
 ## 🏆 Key Achievements
