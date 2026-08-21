@@ -133,15 +133,15 @@ I build scalable web applications with a focus on performance, clean architectur
 ## 📫 Let's Collaborate
 
 <a href="https://www.linkedin.com/in/pratik-raj-543527214/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://portfolio-a363.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6e5494?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=22" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6e5494?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:kpratik071997@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=22" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" />
 </a>
 
 ## ⚡ Beyond Code
