@@ -118,16 +118,9 @@ I build scalable web applications with a focus on performance, clean architectur
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kPratik07&theme=radical&hide_border=true&border_radius=10"
-    height="180"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kPratik07&layout=compact&theme=radical&hide_border=true&border_radius=10"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/kPratik07">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kPratik07&theme=radical" width="100%" />
+  </a>
 </p>
 
 ## 🚀 What I Bring to the Table
