@@ -105,16 +105,20 @@ I build scalable web applications with a focus on performance, clean architectur
 </td>
 </tr>
 </table>
+
 ## 🏆 Key Achievements
-- Architected and deployed 10+ production-ready applications serving thousands of users
-- Optimized application performance, reducing load times by 40% through code optimization and caching strategies
-- Led a team of 3 developers in implementing CI/CD pipelines, improving deployment efficiency by 60%
-- Contributed to open-source projects with 1000+ GitHub stars collectively
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kPratik07&theme=radical&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+- 🚀 Architected and deployed **10+ production-ready applications** serving thousands of users
+- ⚡ Improved application performance by **40%** through code optimization and caching
+- 👥 Led a team of **3 developers** in implementing CI/CD pipelines, improving deployment efficiency by **60%**
+- 🌐 Contributed to open-source projects with **1,000+ GitHub stars** collectively
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kPratik07&layout=compact&theme=radical&hide_border=true)](https://github.com/kPratik07)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kPratik07&theme=radical&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kPratik07&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
 
 ## 🚀 What I Bring to the Table
 - **Full-Stack Expertise**: Proven ability to own features end-to-end, from database design to pixel-perfect UIs
