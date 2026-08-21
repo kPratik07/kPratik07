@@ -20,36 +20,36 @@ I build scalable, high-performance web applications with clean architecture and 
 
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/><br>
   <sub>HTML5</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=css" width="45"/><br>
   <sub>CSS3</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=js" width="45"/><br>
   <sub>JavaScript</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=ts" width="45"/><br>
   <sub>TypeScript</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=react" width="45"/><br>
   <sub>React</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>
   <sub>Next.js</sub>
 </td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=svelte" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=svelte" width="45"/><br>
   <sub>Svelte</sub>
 </td>
 <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
   <sub>Tailwind CSS</sub>
 </td>
 </tr>
@@ -60,19 +60,19 @@ I build scalable, high-performance web applications with clean architecture and 
 <table>
 <tr>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
   <sub>Node.js</sub>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/><br>
   <sub>Express.js</sub>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
   <sub>MongoDB</sub>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
   <sub>MySQL</sub>
 </td>
 </tr>
@@ -82,24 +82,24 @@ I build scalable, high-performance web applications with clean architecture and 
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/><br>
   <sub>Git</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
   <sub>GitHub</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/><br>
   <sub>Docker</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=aws" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=aws" width="45"/><br>
   <sub>AWS</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
   <sub>Vercel</sub>
 </td>
 </tr>
