@@ -7,9 +7,10 @@ I build scalable, high-performance web applications with clean architecture and 
 ## 🚀 Professional Journey
 
 - **Technical Trainer @ Parul University** (Oct 2026 – Present)
-  - Delivered technical training in modern web development technologies, focusing on industry-relevant skills.
+  - Deliver technical training in modern web development technologies, focusing on industry-relevant skills.
   - Conduct hands-on sessions covering frontend, backend, and full-stack application development.
   - Guide students in programming, problem-solving, and building real-world projects.
+  - Mentor students in programming concepts, problem-solving, and real-world project development.
 
 - **Mentor & Software Engineer @ CipherSchools** (Jan 2026 – August 2026)
   - Built and maintained full-stack web applications using modern JavaScript technologies.
