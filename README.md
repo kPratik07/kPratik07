@@ -6,13 +6,18 @@ I build scalable, high-performance web applications with clean architecture and 
 
 ## 🚀 Professional Journey
 
+- **Technical Trainer @ Parul University** (Present)
+  - Delivered technical training in modern web development technologies, focusing on industry-relevant skills.
+  - Conduct hands-on sessions covering frontend, backend, and full-stack application development.
+  - Guide students in programming, problem-solving, and building real-world projects.
+
 - **Mentor & Software Engineer @ CipherSchools** (Jan 2026 – August 2026)
-  - Built and maintained full-stack web applications using modern JavaScript technologies
-  - Worked on scalable features, application performance, and reusable components
+  - Built and maintained full-stack web applications using modern JavaScript technologies.
+  - Worked on scalable features, application performance, and reusable components.
 
 - **Associate Software Engineer @ Masai School** (Sept 2024 – Jun 2025)
-  - Led development of enterprise-grade applications using the MERN stack
-  - Architected and implemented scalable backend services with optimized database schemas
+  - Led development of enterprise-grade applications using the MERN stack.
+  - Architected and implemented scalable backend services with optimized database schemas.
 
 ## 🛠️ Tech Stack & Tools
 
