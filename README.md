@@ -6,7 +6,7 @@ I build scalable, high-performance web applications with clean architecture and 
 
 ## 🚀 Professional Journey
 
-- **Technical Trainer @ Parul University** (Present)
+- **Technical Trainer @ Parul University** (Oct 2026 – Present)
   - Delivered technical training in modern web development technologies, focusing on industry-relevant skills.
   - Conduct hands-on sessions covering frontend, backend, and full-stack application development.
   - Guide students in programming, problem-solving, and building real-world projects.
